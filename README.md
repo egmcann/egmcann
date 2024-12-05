@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egmcann
-- 🌱 I’m currently learning IoT App Dev.
+- 🌱 I’m currently on a PostGrad @Ulster.ac.uk
 - 📫 How to reach me: http://www.Linkedin.com/en/egmcann
 
 <!---
